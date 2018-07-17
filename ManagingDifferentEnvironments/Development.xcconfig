@@ -1,0 +1,12 @@
+//
+//  Development.xcconfig
+//  ManagingDifferentEnvironments
+//
+//  Created by EquipeSuporteAplicacao on 5/15/18.
+//  Copyright © 2018 EquipeSuporteAplicacao. All rights reserved.
+//
+
+server_url = localhost:8080
+app_icon = AppIconDev
+app_bundle = Thufik.ManagingDifferentEnvironmentsDev
+cor = azul
